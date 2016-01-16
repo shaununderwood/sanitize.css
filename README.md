@@ -45,7 +45,11 @@ npm install sanitize.css
 
 ## Differences
 
-**Sanitize.css** styles browsers to render elements more consistently with developer expectations and preferences. **Normalize.css** styles browsers to render elements more consistently with each other. **Reset.css** unstyles every element. Each one has its own advantages.
+  **Sanitize.css** styles browsers to render elements more consistently with developer expectations and preferences. 
+  
+  **Normalize.css** styles browsers to render elements more consistently with each other. 
+  
+  **Reset.css** unstyles every element. Each one has its own advantages. 
 
 In **Sanitize.css**, CSS inheritance is assigned universally so that styles cascade naturally and consistently. Wherever possible, the box model operates more intuitively. Every normalization and opinionated default is carefully documented, and most are configurable from Sass.
 
